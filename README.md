@@ -1,0 +1,2 @@
+# wp-repos
+Wordpress prueba
